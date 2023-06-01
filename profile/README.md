@@ -9,7 +9,7 @@
 
 | ![Alt text](https://avatars.githubusercontent.com/u/88137420?s=400&u=39adcd6bdc7603df1571178d13cc74ff89f69f2c&v=4) | ![Alt text](https://avatars.githubusercontent.com/u/88388295?v=4) | ![Alt text](https://avatars.githubusercontent.com/u/96610382?v=4) | ![Alt text]() | ![Alt text]() |
 |--------------------------------------------|--------------------------------------------|--------------------------------------------|------------------------------------------|--------------------------------------------|
-| [박민욱](https://github.com/JohnPrk)| [하지훈]([https://github.com/yunheehyeon](https://github.com/habibi03336))   | [박정호](https://github.com/Jeongho0805)     | [미정]()   | [미정]()      |
+| [박민욱](https://github.com/JohnPrk)| [하지훈](https://github.com/habibi03336)   | [박정호](https://github.com/Jeongho0805)     | [미정]()   | [미정]()      |
 
 
 <!--
